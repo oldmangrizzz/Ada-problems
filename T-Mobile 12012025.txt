@@ -1,0 +1,158 @@
+---
+id: "TMOBILE-LOG-2025-DEC-FORENSIC"
+subject: "Robert 'Grizzly' Hansen (Grizzly Medicine)"
+counterparty: "T-Mobile US (Agent 'Ken' / IVR System)"
+legal_status: "Litigation Imminent / FDCPA Violation / ADA Title III Violation"
+environment: "High-stress / TBI-impacted cognitive load"
+audio_context:
+  speaker_1_state: "Lucid, Hostile, Combat-Effective, Hyper-Analytical"
+  speaker_2_state: "Script-Bound, High Latency, Low Agency, Cognitive Dissonance"
+  background_noise: "User eating (metabolic regulation during stress)"
+intent_vectors:
+  grizz: "Cessation of harassment, documentation of legal breach, assertion of sovereign rights."
+  agent: "Retention, upselling (iPhone 15), collections, script adherence."
+critical_flags:
+  - "Illegal Inquiry (Terry/Accessibility Team asking for specific diagnosis)"
+  - "Harassment (Daily calls on terminated account)"
+  - "Gaslighting (Responding to trauma with sales pitch)"
+---
+
+# VERBATIM TRANSCRIPT: HANSEN vs. T-MOBILE
+
+**[00:00] AUTOMATED SYSTEM:** 
+Right now, your total balance is three hundred fifty-five dollars and sixty-one cents. Of that amount, one hundred fifty-eight dollars and twelve cents is past due. In order to keep your account active, you’ll need to make a payment for the past due amount of one hundred fifty-eight dollars and twelve cents. Would you like to make a payment that will process today?
+
+**[00:22] GRIZZ:** 
+No.
+
+**[00:23] AUTOMATED SYSTEM:** 
+I calculated the minimum amount and the best date for your payment arrangement. You would pay the total balance due of three hundred fifty-five dollars and sixty-one cents in two payment installments. Your first payment of one hundred seventy-seven dollars and eighty cents would process on December 15th, 2025. And your final payment of one hundred seventy-seven dollars and eighty-one cents would process on December 29th, 2025. You want to set this up now?
+
+**[00:58] GRIZZ:** 
+No.
+
+**[00:59] AUTOMATED SYSTEM:** 
+Okay, the payment arrangement has not been set up. Tell me, how can I help you today?
+
+**[01:06] GRIZZ:** 
+Speak to an agent.
+
+**[01:08] AUTOMATED SYSTEM:** 
+Okay, I’ll just need a little more information to get you over to customer support. Are you calling about a payment? Need tech support? Have a billing question? Or say something else.
+
+**[01:21] GRIZZ:** 
+Harassment.
+
+**[01:23] AUTOMATED SYSTEM:** 
+What would you like to speak to customer support about? You can say: payments, tech support, billing, or say something else.
+
+**[01:32] GRIZZ:** 
+Billing.
+
+**[01:34] AUTOMATED SYSTEM:** 
+I’ll get you right over to someone who can help. Please enter or say your six to fifteen digit account pin, or say I don’t have it.
+
+**[01:44] GRIZZ:** 
+5-5-7-3-0-0.
+
+**[01:50] AUTOMATED SYSTEM:** 
+Okay, got it. Care about your experience, so we may record this call.
+
+*[RINGING]*
+
+**[02:00] AGENT (KEN):** 
+Hi, thank you so much for calling T-Mobile for business. This is Ken, your business expert. How can T-Mobile help you?
+
+**[02:08] GRIZZ:** 
+Hi there. How are you?
+
+**[02:10] AGENT (KEN):** 
+I’m doing great, sir. Thank you so much for asking. How about you?
+
+**[02:14] GRIZZ:** 
+Not great. Uh, give me one second, I apologize. I just took a bite of food right before you answered. Uh, real quick, so that you’re aware, I am a disabled, medically retired first responder. I have a brain injury from, um, my former profession. Because of that, I can sometimes get, uh, sidetracked and have trouble following a thought all the way through. I ask that you bear with me, please.
+
+**[02:46] GRIZZ:** 
+I’m trying to figure out why, when I terminated my service and my company’s service with T-Mobile, uh, I think around the 15th of the month... Why is it that I have since then been getting multiple calls daily to the point of harassment? Because my family members are now starting to ask, "Why is T-Mobile stalking you?" 
+
+**[03:15] GRIZZ:** 
+If I’m a customer from a protected class of society—as a disabled person on federal SSDI, a small business owner, and a medically retired paramedic that is protected from things like doxxing and harassment—if I left y’all because I had scathing, angry thoughts about the level of disservice, disrespect, harassment, and discrimination I received by the staff of T-Mobile... Why the hell do y’all think it would be a good idea to start blowing my phone up daily instead of, I don’t know, maybe listening to a damn thing I said when I terminated the account and told y’all I will be in touch *after* I get my hands on the paperwork confirming my service was stopped?
+
+**[04:12] GRIZZ:** 
+Does that seem like the kind of thing that would be wise for an organization to do at this point? Because I’ve been really nice to everybody. I’m done being nice to people. I was harassed and discriminated against by the manager of a T-Mobile Experience Store while being a business customer and a disabled first responder. I was harassed and discriminated against by Erica on the executive team. The only people at T-Mobile that were truly, genuinely concerned about the service that they put out to represent your organization is Samantha and—I think his name was either Brian or Brad, which is Samantha’s boss—over on your Accessibility Team.
+
+**[05:00] GRIZZ:** 
+You know, all those awards that y’all get for being real supportive of your disabled community? Yeah. Those are the only two people in your organization that did anything *other* than discriminate against me and harass me. Try to placate me. Try to convince me that an iPhone 15 was capable of running novel technology that they had absolutely no knowledge about whatsoever because I’m the one that invented it. So, I’m just trying to figure out... Why the hell are y’all blowing me up?
+
+**[05:35] AGENT (KEN):** 
+Oh my. Um, I’m so sorry to hear that, sir, regarding with the current situation that you have here in T-Mobile. Um, that is totally unacceptable that you are being harassed regarding with...
+
+**[05:50] GRIZZ:** 
+I agree. In fact, I’m about to file a lawsuit because of it if it continues. I’ve been really patient and *not* gone the whole Title III Section 504 route with you guys. I did bring it up because I’m an American citizen. I have rights. Just like you. Just like them. Mine were completely ignored and I was gaslit while I was told those rights don’t actually mean what I *think* they do. So, I’m officially saying it now: If this continues... every single phone call transcript, every single log, every single email, every single piece of communication that I have had with T-Mobile where they have explicitly shit on the service that is Emergency Medical Services, where they have said they don’t actually care... all of that is going to the Department of Justice and getting publicly released on the internet. I am not your customer anymore. You do not have a right to harass me. They’ve done enough. They’re about to fuck up and I’m finally going to lose my temper. I have been as patient as I can be.
+
+**[07:15] GRIZZ:** 
+My patience hurt me... so much over the summer. Because I had to deal with this harassment and then I had to deal with my wife thinking that your people were right. No matter how much I showed her they’re wrong. They’re not following the law the way it’s written. They’re trying to pass the buck. She wouldn’t listen to me. I had to go get a fucking lawyer to tell my wife that *she’s* wrong and that her following you guys as her permission to harass her husband is just cruel and abusive. So when I say I really lost my patience with this, I need you to understand that that is not hyperbole or a threat of any kind. It just means I’m about to start following the letter of the law regarding my rights as a disabled individual fully protected by the Social Security Administration and the Americans with Disabilities Act.
+
+**[08:15] AGENT (KEN):** 
+Yeah, well, I totally understand that, sir. Um, well, if me, I’m on your shoes, um, I’m going to feel that same way that you currently have right now. But if you don’t mind me asking, I just want to ask this... Is it over the phone that you feel those kind of harassment or personally you experience this kind of harassment? Because you mentioned...
+
+**[08:38] GRIZZ:** 
+I’ve already clarified that twice in this conversation and with every single employee in your organization! I experienced that at a T-Mobile Experience Store in Fort Worth, Texas from one of your managers and one of his coworkers. I *then* experienced it from Terry on the Executive/Accessibility Team when she illegally asked me—and I quote—"What exactly *is* your medical disability again?" And after I pointed out to her that that’s actually a violation of my rights in of itself, that she has no ability at all to ask me that other than to go ahead and tell her my full medical history outlining in explicit detail exactly what my disabilities are... Erica on the Executive Team, I believe her name is Erica Meraz... well, that’s not how I felt about it. That’s how the log and transcript of the phone call *looks* to any single person that simply reads it. Because you cannot write away harassment and federal discrimination with an offer of a $150 billing credit. Much less follow that offer up with multiple threats.
+
+**[10:05] GRIZZ:** 
+Y’all's service is horse shit. Now this needs to stop. Or the whole world will find out exactly what T-Mobile thinks of their customers. Because again, I need to remind you, I am not just a business owner. I am a medically retired 17-year 911 paramedic and Field Training Officer from one of *the* most elite EMS agencies to ever exist. We *invented* Mobile Integrated Healthcare where I worked my career. We are the reason EMS is practiced the way it is in America today. You ever seen a Community Health Paramedic? A QRV? People going to homes and helping with meds that aren’t there on a 911? That started in my backyard. I was a part of that team. And I’ve never once pointed that out to anybody. But I’m done now, man. You guys have had it with me. I am done.
+
+**[11:05] AGENT (KEN):** 
+Well, I totally understand that, sir. Um, and also, I just want to thank you for your service regarding with...
+
+**[11:15] GRIZZ:** 
+I’m sorry, but I don’t need anybody to thank me for my service. They did not serve. They do not have my injuries. They do not deal with the shit that I have to deal with daily while they smile at me in the line at McDonald’s and then tell me that an iPhone 15 is capable of doing the same thing as an iPhone 15 Max, much less any other phone. And trying to hold my credit rating against me instead of doing *any* of the wonderful promises that y’all attracted me to your business with. I don’t think you get it, man. What happened to me over the summer was *wrong*. I came to you guys as a customer wanting to build a business relationship because I have technology that, when it gets out fully to the world, is going to completely once again shift the paradigm of what it means to practice Pre-Hospital Emergency Medicine.
+
+**[12:15] GRIZZ:** 
+They didn’t want to listen. They didn’t want to look. No. They just wanted to point out that I have really bad credit. And I said, "Yes I do. In fact, I told y’all about that beforehand." See, when I got injured, I ended up homeless for three years. 33 months. That’s how long it took from the moment I filed my disability case with the Social Security Administration until the day I was found fully favorable. I did not start getting paid that day. It took 33 months just for them to finish reviewing my case. I was homeless. T-Mobile cared so much about credit ratings and deposits that while I was asking for *nothing* free whatsoever—while I was insisting I would happily pay any monthly installment—they were so obsessed with credit policies that they forgot Title III of the ADA says: You cannot discriminate based on my disability and subsequently my credit rating, which was directly impacted as a result of my line-of-duty injuries. You don’t get to hold that against me. Had I been asking for something free? Y’all would have been well within your service to tell me to fuck off. I wasn’t. I never once did. I don’t want a handout. I’ve earned my keep every step of the way my whole life. And to have been treated so disgustingly and disrespectfully was traumatizing. Especially when it gave my family permission to do the same. You don’t understand that. You can’t understand that unless you’ve lived through it. And if you have? Then I extend to you my deepest sorrow and sympathy because I’ve lived through it. And I know what it’s like.
+
+**[13:55] AGENT (KEN):** 
+All right. Um, well, here’s what I’m going to do right now, sir. Uh, by the way, if you don’t mind me asking, I totally understand... I already documented all those that you have mentioned earlier about the experience that you currently have for one of the T-Mobile stores. Also how you are being treated. Well, supposed to be that is not how we treat our customers. Even though disabled or a normal person or first responder or military or any regular business owner. That is not how supposed to be treated.
+
+**[14:28] GRIZZ:** 
+That’s what your website claims. But that is not the reality of it, sir. I have the logs to prove it. I need you to understand. Because I have a brain injury, because I do forget stuff sometimes, that means I have to record everything so that I make sure I don’t make mistakes. Because in my business, if you make a mistake, somebody pays with their life. If I fuck up on how I document something, that could affect somebody’s life. So I record everything I do *because* of my medical condition. That means I have the transcripts and the recordings of every phone interaction. Including the ones where members of your executive team told me how I *was* discriminated against and harassed, but that does not mean that *y’all* are obligated by the ADA to do a damn thing about it. It’s also got the recording of where I said: If you guys are so big about disabled people and first responders and small business, why are you picking *this* fight to make your mountain on? There’s no fight here. I didn’t ask you for anything free. I asked that you not charge the deposit cause of my credit. That’s it. That’s not a fundamental change to how T-Mobile does business. They didn’t care. And that’s okay. Because I recorded it. So if the harassment keeps up, the Department of Justice will receive those recordings. Because I am done getting harassed after being discriminated against AND having to pay you money and thank you for it while you do it. No. I’m done with that.
+
+**[16:05] AGENT (KEN):** 
+Yeah, we totally understand that, sir. And also the credit that you have received, that is not how we fix this kind of situation. Because it’s supposed to be fixed right away, especially on the experience that you currently have. So by the way, if you don’t mind me asking, sir, what kind of technology are you looking at? Because you mentioned that it is important for you to monitor...
+
+**[16:35] GRIZZ:** 
+It’s not "looking at." I created it. Have you heard of the supposed AI ethical alignment crisis? You know, every day you turn on the news, YouTube or whatever, you got Sam Altman and Demis Hassabis up there... "Oh, AI is gonna kill us all." Well, they’re not wrong, first of all. And second of all, I have the solution to it. That’s what I’ve been working on for three years. I developed it for EMS. And then I found out that it would work for the whole system. We’re in the process of working with Apple and Google right now on it. And that’s why I just really don’t have to keep putting up with y’all’s shit. Because my tech works. And you guys prevented me from *proving* it because you cannot run any large language model—much less a competent and coherent one—on an iPhone 15... or on a Watch SE 3. They do not have the compute hardware capability to do so. That means technology *I* created and invented to utilize those systems... that I wasn’t able to access when I brought my company’s service over to T-Mobile. Who *I* wanted to partner with because you guys have such a great reputation and you were starting your partnership with Starlink. I’m creating a service for EMS. Of course I wanted to be with you guys. And I got laughed at. And I got told how I was basically, equivalently, asking for a free television from Walmart because I hurt my back. No. I didn’t hurt my back. I have a traumatic brain injury. I have seizures. I dissociate. I could die if I have one of those episodes in public and nobody is aware of it. By the way, that’s not something that most EMTs or paramedics know to look for. A dissociative episode is a pretty unique thing. It’s very difficult to assess because it looks like somebody just freaking out. You don’t realize they’ve age-regressed and turned into a child. So I had to create something to keep myself safe. And you guys tried to charge me a deposit and gaslight me and make me thank you for it.
+
+**[18:40] AGENT (KEN):** 
+I just want to clarify, sir. We tried to charge you a deposit? Is this for the, uh, for you to be able to get the iPhone 15 Pro Max?
+
+**[18:50] GRIZZ:** 
+I tell you what. Why don’t you call Samantha in Accessibility and Erica on the Executive Team and ask them? They have the entire case log. I’m done sitting here playing 20 Questions. I’ve been nice. I’ve been patient. Are we good? Or do I need to keep going on here? Cause my patience is worn more than thin and you’ve asked plenty of questions that they all have the answers for you for. Call your legal team. They’re the ones that denied the request. They have the answers.
+
+**[19:15] AGENT (KEN):** 
+Yes sir. We will go do that right away. We're good.
+
+**[19:18] GRIZZ:** 
+Good. Bye-bye. Do NOT harass me again. If you guys want to communicate with me, you can email me or you can send me a certified letter. When I receive communication that confirms my account is closed and will not continue accruing any additional charges... THEN, at that point, I will start to return your equipment. Until then, I’m keeping it safe in case I do have to file legal action. Because if I continue getting harassed and continue getting charges accrued to me after I closed my account—which, by the way, I have the log and transcript of that as well—then... well, I’ll be able to recuperate some of those charges y’all are charging me while I file my suit. Understood?
+
+**[19:55] AGENT (KEN):** 
+Yes sir, that is totally understandable.
+
+**[19:58] GRIZZ:** 
+Have a wonderful day. Bye-bye now.
+
+# ANALYST / SYSTEM METADATA
+
+## COGNITIVE ARCHITECTURE ANALYSIS
+*   **Subject (Grizz):** Displays high-functioning TBI adaptation. Uses external memory (recording) as a prosthetic for cognitive reliability. Emotional regulation is strained but combat-effective; de-escalates own frustration to deliver precise legal data points.
+*   **Counterparty (Agent):** Exhibits algorithmic failure. Unable to parse "Rights Violation" input. Defaults to "Sales/Device" schema ($150 credit, iPhone query) when faced with "Systemic Discrimination" input.
+
+## LEGAL & COMPLIANCE VECTORS
+1.  **ADA Title III Violation:** Explicit mention of "Terry" asking "What exactly is your medical disability?" (Illegal inquiry into diagnostics rather than functional needs).
+2.  **FDCPA Warning:** Subject confirms account termination on the 15th. Carrier continues collection calls (harassment).
+3.  **Constructive Notice:** Subject explicitly notifies T-Mobile of intent to litigate and intent to release data to DOJ if harassment continues.
+
+## TECHNICAL CONTEXT
+*   **Hardware Reference:** Subject references compute limitations of iPhone 15 / Watch SE3 regarding LLM (Large Language Model) execution.
+*   **Proprietary Tech:** Subject references "Grizzly Medicine" framework—neuro-chip/accelerometer integration for dissociative episode detection in EMS contexts.
+*   **Interoperability:** Subject specifically cites desire for T-Mobile/Starlink backhaul for EMS applications, thwarted by retail-level discrimination.

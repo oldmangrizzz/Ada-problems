@@ -1,0 +1,134 @@
+---
+id: "TMOBILE-LOG-2025-DEC-HARASSMENT-STRIKE-2"
+subject: "Robert 'Grizzly' Hansen (Grizzly Medicine)"
+counterparty: "T-Mobile US (Agent 'Anna' / IVR System)"
+legal_status: "Active Harassment / FDCPA Violation / Willful Non-Compliance"
+audio_context:
+  timestamp: "Immediately following previous revocation call"
+  speaker_1_state: "Lucid, Escalating, Defensive Posture"
+  speaker_2_state: "Dismissive, Circular Logic, Verification-Looping"
+intent_vectors:
+  grizz: "Reinforce revocation of consent, document continued harassment, establish willful negligence."
+  agent: "Collection of debt, forced verification via SMS (impossible due to device status), dismissal of legal threat."
+critical_flags:
+  - "Continued Contact Post-Revocation (Violation of FDCPA)"
+  - "Verification Loop (Demanding SMS verification on a closed/returned device)"
+  - "Dismissal of Disability Context (Ignoring TBI/Safety context of recording)"
+---
+
+# VERBATIM TRANSCRIPT: HANSEN vs. T-MOBILE (CALL 2)
+
+**[00:00] AUTOMATED SYSTEM:**
+...outstanding balance of one hundred fifty-eight dollars and twelve cents. For your convenience, we can connect you now to our automated payment service by pressing one. For additional options, press two.
+
+*[System repeats balance and options]*
+
+**[00:30] AUTOMATED SYSTEM:**
+If you've already made your payment, press one. To make a payment with an agent, press two. To cancel and go back, press star.
+
+**[00:40] AUTOMATED SYSTEM:**
+Thank you. We will now connect you with an agent. To avoid further collection activities on your T-Mobile account, please complete this payment transaction.
+
+**[00:52] AUTOMATED SYSTEM (IVR):**
+Welcome to T-Mobile. Para español, marque asterisco. Are you calling about 682-469-9088?
+
+**[01:05] GRIZZ:**
+Yes.
+
+**[01:08] AUTOMATED SYSTEM:**
+Please enter or say your six to fifteen digit account pin.
+
+**[01:12] GRIZZ:**
+5-5-7-3-0-0.
+
+**[01:16] AUTOMATED SYSTEM:**
+Okay, got it. Right now, your total balance is three hundred fifty-five dollars and sixty-one cents...
+
+*[System repeats balance and payment arrangement script]*
+
+**[01:50] GRIZZ:**
+No.
+
+*[System repeats prompt]*
+
+**[02:05] GRIZZ:**
+No.
+
+**[02:10] AUTOMATED SYSTEM:**
+Tell me, how can I help you today?
+
+**[02:12] GRIZZ:**
+Speak to an agent.
+
+*[System repeats routing questions]*
+
+**[02:25] GRIZZ:**
+Calling about a payment.
+
+**[02:30] AUTOMATED SYSTEM:**
+I'll get you right over to someone who can help. We care about your experience, so we may record this call.
+
+*[RINGING]*
+
+**[02:40] AGENT (ANNA):**
+Hello, good afternoon. You reached T-Mobile for business. This is Anna, how can I be of assistance?
+
+**[02:46] GRIZZ:**
+Hi, Anna. My name is Robert Hansen. I am the founder and theoretical futurist in charge of Grizzly Medicine. Earlier this year I brought my organization to your organization because I wanted to collaborate and do business together. I was a great fan of your reputation in the community...
+
+*[Subject provides detailed biographical context: retired 911 paramedic, FTO, disabled business owner, protected class status]*
+
+**[03:20] GRIZZ:**
+Unfortunately, many people within your organization did not feel that way. In fact, they felt that it was actually appropriate to laugh at me, humiliate me, call me names in public in front of other customers, to discriminate against me and to violate my rights as protected under the Americans with Disabilities Act.
+
+**[03:40] GRIZZ:**
+About an hour and a half ago, I told one of your employees that because they called me for the umpteenth time in less than 24 hours about a past due bill with threats of terminating my service *after* I already canceled it in the middle of the month... I told somebody when I canceled that service and I have a recording of that call that says I will return the device that you forced me into getting when you violated my rights once I have written confirmation that the line has been disconnected.
+
+**[04:10] GRIZZ:**
+I haven't received that yet. But your phone calls have crossed harassment into now causing medical problems. Y'all should stop. Because I already have a very compelling public of opinion case... If this continues, I will finally have no choice but to file every single recording, log, transcript, or email that I have with any agent that has ever represented T-Mobile... including a manager in Fort Worth, Texas, and multiple people throughout your leadership team ranging from the Accessibility Department to the Legal Department to the Executive Team.
+
+**[04:50] GRIZZ:**
+And I can tell you for certainty, the *only* time my rights as protected by the ADA were not egregiously and disgustingly violated under a guise of trying to be kind was when Samantha with the Accessibility Team communicated with me. Every single one of your employees has gone above and beyond gross misfeasance abuse of your customer base. That's why I took my business away from your business. I'm sorry, but I'm a professional...
+
+*[Subject reiterates professional standing and the origin of Mobile Integrated Healthcare]*
+
+**[05:35] GRIZZ:**
+When AI comes into EMS in the next 18 months, it'll originate right out of Fort Worth, Texas. Your employees chose to disrespect and condescend a paying customer that was very open and excited to try and do business with you guys. If I get another phone call before I get written confirmation that my account was terminated as I terminated it earlier in the month... at that point I'm going to assume that y'all are just deliberately harassing me and I'll file a suit in accordance with that as well. I'm a protected individual. I receive federal disability. And I am a retired first responder. Doxxing is real and I've had people follow me home before. So you guys need to stop. Am I clear?
+
+**[06:20] AGENT (ANNA):**
+Oh I can definitely check that one here for you...
+
+**[06:25] GRIZZ:**
+No. We're not checking stuff out. Did you hear what I said? Yes or no?
+
+**[06:30] AGENT (ANNA):**
+Um, how can I cancel your account, sir, if I can't access your account?
+
+**[06:35] GRIZZ:**
+My account was *already* canceled in the 15th of the month. I verified myself when you called and harassed me. I put in my PIN code. You should be able to verify it just fine.
+
+**[06:45] AGENT (ANNA):**
+Oh, I need to send a one-time PIN to your phone number first.
+
+**[06:50] GRIZZ:**
+You're not sending anything to my phone. If you guys try and communicate with me again by any means other than email or written letter, I will consider that harassment. I already have all the phone logs to back it all up. If you're that concerned with verifying it, call your legal team. Call Erica Meraz. Call Samantha in the Accessibility Department. They all know who I am.
+
+**[07:10] AGENT (ANNA):**
+Well, sir, I can't actually do anything...
+
+**[07:12] GRIZZ:**
+You have a wonderful day, ma'am. Goodbye now.
+
+# ANALYST / SYSTEM METADATA
+
+## COGNITIVE ARCHITECTURE ANALYSIS
+*   **Subject (Grizz):** Maintains defensive perimeter. Rapidly identifies the agent's attempt to enter a "Verification Loop" (asking to send a PIN to a device that is boxed/returned/disabled) as a delay tactic/harassment vector. Refuses to engage in the loop.
+*   **Counterparty (Agent):** Demonstrates complete lack of agency. Unable to process "Revocation of Consent" or "Legal Threat." Defaults to "I must send a PIN to access the account" despite the user explicitly stating the account is closed and he is not the one initiating the call.
+
+## LEGAL & COMPLIANCE VECTORS
+1.  **FDCPA Violation:** The call itself is the violation. The user explicitly revoked consent in the previous call (Call 1). T-Mobile called back within <90 minutes.
+2.  **Willful Negligence:** The agent's refusal to acknowledge the previous revocation or escalate to Legal constitutes willful negligence.
+3.  **Verification Trap:** The agent attempted to force the user to receive a text message on a line he has stated is terminated and/or on a device he is returning. This is a common tactic to "reactivate" usage metrics or force the user to interact with the device.
+
+## CONTEXTUAL NOTE
+*   **"Who Else?":** Subject identifies that his unique intersection of identities (Queer, Disabled, Medic, Tech-Literate) allows him to see the trap. The implication is that standard users without this background are successfully trapped by these tactics daily.
