@@ -1,0 +1,117 @@
+---
+id: "TMOBILE-LOG-2024-OCT-16"
+subject: "Robert 'Grizzly' Hansen (Grizzly Medicine)"
+counterparty: "T-Mobile Tech Support ('Jack')"
+legal_status: "Active Harassment / Failure to Provide Service / Discrimination"
+audio_context:
+  timestamp: "2024-10-16"
+  speaker_1_state: "Lucid, Frustrated, Clear about financial limitations"
+  speaker_2_state: "Sympathetic but powerless, bound by rigid policy, acknowledging systemic failure"
+intent_vectors:
+  grizz: "Attempting to explain the critical need for hardware upgrade (iPhone 15 Pro Max) for 'Responder OS' development due to compute limitations of current device. Seeking waiver of deposit due to disability/fixed income status."
+  agent: "Acknowledging the validity of the request but confirming policy rigidity regarding credit checks and deposits. Admitting inability to override system logic despite the unique use case."
+critical_flags:
+  - "Systemic Inflexibility: Agent confirms there is no workflow for disability accommodation regarding device financing."
+  - "Public Access Denial: Subject articulates argument that telecom providers are public accommodations under ADA and must offer equal access, which credit-based barriers prevent for disabled individuals on fixed income."
+  - "Humiliation: Subject recounts being laughed at by retail staff in Fort Worth on July 3rd."
+---
+
+# VERBATIM TRANSCRIPT: HANSEN vs. T-MOBILE (OCT 16)
+
+**[00:00] GRIZZ:**
+There. Sorry. I'm having trouble with my phone. Hi, how can I help you?
+
+**[00:08] AGENT (JACK):**
+Hey, good afternoon, good evening. My name is Jack, one of the account supervisors from T-Mobile Tech Support Team, looking for the account owner of Grizzly Medicine?
+
+**[00:19] GRIZZ:**
+That would be me, Robert Hansen.
+
+**[00:21] AGENT (JACK):**
+Thank you, Robert. Robert, this call is endorsed to me because the last colleague, a supervisor, is not available. But this is a follow-up call about us looking at helping you getting a Pro Max, the 15 Pro Max?
+
+**[00:37] GRIZZ:**
+Oh, awesome.
+
+**[00:39] AGENT (JACK):**
+Yeah. So Robert, the reason why I'm here because what we did is to help you out... I mean, we appreciate your patience along the way by this by the way. So we are looking at getting you a Pro Max. Now just to give you an update, when we analyzed the current promotion... it looks like that it's not... it's not ideal yet to get you as of the current because it looks like we saw that there's a down payment that we don't, of course, we don't want you to pay for that big a down payment for a Pro Max.
+
+**[01:18] AGENT (JACK):**
+But a good thing is that we actually had assigned the account... what will happen is... do you know the... are you familiar about it?
+
+**[01:29] GRIZZ:**
+Familiar with what? You cut out for a moment.
+
+**[01:32] AGENT (JACK):**
+Are you familiar with Black Friday or Cyber Monday? It's actually a sort of a... every quarter T-Mobile has a promotion which we call the Black Friday.
+
+**[01:46] GRIZZ:**
+No, I didn't know about that.
+
+**[01:48] AGENT (JACK):**
+You don't know about that? Okay, cool. Cause here on T-Mobile, we actually have what we call a Black Friday or Cyber Monday. So that normally would happen November and December. And what will happen is we're gonna assign the account to follow up with you on that specific timeline, that date, because T-Mobile will offer big, huge discount for devices. So, though I know that as of the current, we can't provide you yet the Pro Max... but rest assured...
+
+**[02:24] GRIZZ:**
+Sir... I... thank you first of all. That's very kind of y'all to be willing to try and find some way to work with me. I appreciate that. Um, I didn't reach out to y'all yesterday. Y'all reached out to me. And so I'm just kind of trying to wrap my head around it because y'all contacted me and then said you would call back today with details about getting the equipment that I needed for development because I'm ready to go into actual physical beta testing. And now you're asking me to wait till the end of November... and I mean either way I don't really have any other choice. I'm just trying to wrap my head around it and fully understand.
+
+**[03:10] AGENT (JACK):**
+I agree. Thank you, sir. Appreciate for understanding. We did our very best... we did before we calling you, we did run promotion analyst... analyzation on the account. Look for what we found out is if we do an upgrade as of the current... the down payment is a bit... a bit huge. Huge. It's almost the amount of the 15 Pro Max. So we don't want you to spend that big. But yep, coming on end of quarter this year, we do have those two scheduled promotional date which is the Cyber Monday and the Black Friday which we can follow up with you on those times then we run again the review...
+
+**[03:59] GRIZZ:**
+Okay. Do you know um... what part of the month they will be in because I need to financially plan for that to see if it'll be something I'll be able to do.
+
+**[04:10] AGENT (JACK):**
+Yes sir. Let me run that for you. Cyber Monday this year... that's gonna be December 1st. And then the Black Friday... hold on... Black Friday...
+
+**[04:26] GRIZZ:**
+Oh you do it on actual Black Friday? Like it's not a period of time on...
+
+**[04:30] AGENT (JACK):**
+Exactly. We do normally we do it on the exact date. Yes sir. November 28th is the Black Friday. So definitely we can assign the specific expert for you, a dedicated expert to reach back to you first that's gonna be on Friday November 28th. Uh if favorable we'll go with the upgrade. Uh if not available we can also schedule on December 1st. But I bet on November 28th there should be and there will always be a promotion dedicated for all of the customers here in T-Mobile.
+
+**[05:05] GRIZZ:**
+Can I ask one more question just because I've never been able to get a straight answer from anybody in any direction about this except the Accessibility Department who was very kind about everything. Um... Y'all have a very well developed reputation with my community being a first responder and with the disabled community. And this entire time I haven't asked that you give me anything for free. I haven't asked that you give me a discount on anything. I've asked simply that the deposit be waived because I *cannot* afford one on a fixed income and that credit rating is because I had to wait 33 months for disability.
+
+**[05:55] GRIZZ:**
+What I'm failing to understand is... I'm one individual with a highly unique set of circumstances seeing as I develop technology for the specific devices that I'm asking for which happens to also benefit the first responder community. Why is this such a big deal to y'all? Like y'all are sticking to your guns about it and I... that is kind of what the ADA is for, isn't it? To be able to say hey, we have an extenuating situation here that's different. It's not the normal. This isn't how we normally do business. But this individual has the same rights as everybody else, they just kind of got a bad hand. And that's why it's called asking for a reasonable modification. I have not yet been able to get clarification from you guys why this is such a massive deal when I'm coming to y'all very transparent about everything and have even offered part of the architecture to show y'all in good faith that I'm not putting on a con here.
+
+**[07:05] AGENT (JACK):**
+Of course sir. And our intention is... I get your point there. I mean uh... there should be like a separate or specific workflow for...
+
+**[07:18] GRIZZ:**
+There is. It's called the Americans with Disabilities Act, sir. And the fact that I'm a first responder that's disabled from *being* one... and y'all have the reputation you do... that's why I have never once understood why this is a battle that y'all are sticking to.
+
+**[07:35] AGENT (JACK):**
+You know sir... truly I get your point there. I mean if if there would be a specific workflow for a device purchase or financing uh... for a specific group of individual... we'll present it to you. I guess the roadblock there is... for a device purchase or financing... we don't have a program...
+
+**[07:58] GRIZZ:**
+All I'm asking y'all do is charge me the monthly fee. That's fine. I'll pay for it every month. I've never once said that I wouldn't or asked that I not have to. I just asked to not pay the deposit part because I can't afford six, seven, eight hundred dollars on a two thousand dollar a month fixed income raising a kid trying to develop technology that's gonna help people. I mean eventually you run out of resources somewhere. But the device that I've been working with the entirety of the summer... I... my entire project got ground to a halt instantly because a 128 gig iPhone 15 compared against a 1 terabyte 15 Pro Max... I don't have the hardware, the memory, the space, any of it. And it's really affected a lot of different things.
+
+**[08:52] AGENT (JACK):**
+Oh my. I get your point there. Truly sorry that as of the current T-Mobile cannot really somehow support with the request...
+
+**[09:05] GRIZZ:**
+Well... that's... I mean ya know it's frustrating for me but it's frustrating cause it's gonna help a lot of EMS providers. I'm unfortunately very passionate about that.
+
+**[09:15] AGENT (JACK):**
+Truly. But then again I mean we did our best here. That's the reason we're calling out...
+
+**[09:22] GRIZZ:**
+Okay. Well I appreciate it. Again thank you and really I'm just I'm trying to understand because I haven't and that's just kind of how my brain operates. But I appreciate your time. I look forward to hearing from y'all's representative next month and we will see if we can't get something sorted, okay?
+
+**[09:38] AGENT (JACK):**
+That's true sir. Thank you for being a kind sport, Sir Robert. Have a blessed day. Nice meeting you sir.
+
+**[09:44] GRIZZ:**
+You too. Have a good night. Thank you for calling. Bye bye.
+
+# ANALYST / SYSTEM METADATA
+
+## COGNITIVE ARCHITECTURE ANALYSIS
+*   **Subject (Grizz):** Demonstrates high-level cognitive functioning despite stated TBI. Clearly articulates the connection between hardware specifications (compute/storage) and functional capacity (Responder OS development). Shows significant emotional regulation, thanking the agent despite the rejection of the accommodation request.
+*   **Counterparty (Agent):** Admits systemic failure ("there should be like a separate or specific workflow"). Confirms that the corporate logic (the "roadblock") is purely policy-based and lacks an exception handler for ADA compliance or protected class status.
+
+## LEGAL & COMPLIANCE VECTORS
+1.  **ADA Title III Violation:** The subject explicitly frames the request as a "reasonable modification" to policy (deposit waiver) to allow equal access to goods/services. The agent confirms no such workflow exists.
+2.  **Disparate Impact:** The subject highlights that credit-based deposit requirements inherently discriminate against those whose credit was damaged by the very disability for which they are seeking accommodation (33-month wait for SSDI).
+3.  **Good Faith Effort:** The subject offered intellectual property ("part of the architecture") as collateral/proof of legitimacy, which was ignored by the system.
